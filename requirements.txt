@@ -1,0 +1,28 @@
+# Core frameworks
+fastapi
+uvicorn[standard]
+streamlit
+
+# AI/ML libraries  
+openai
+
+# Database
+sqlalchemy
+
+# Web scraping
+beautifulsoup4
+selenium
+requests
+playwright
+
+# Data processing
+pandas
+numpy
+
+# Utilities
+python-dotenv
+pydantic-settings
+backoff
+
+# Visualization
+plotly

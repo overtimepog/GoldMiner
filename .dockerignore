@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific
+data/
+logs/
+*.db
+*.sqlite
+*.sqlite3
+
+# Testing
+.pytest_cache/
+htmlcov/
+.coverage
+*.cover
+
+# Documentation
+*.md
+docs/
+
+# Environment files (will be mounted)
+.env.local
+.env.*.local
+
+# Task Master
+.taskmaster/
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.log
+tmp/
+temp/
